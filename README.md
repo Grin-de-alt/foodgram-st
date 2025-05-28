@@ -2,7 +2,7 @@
 
 По адресу http://localhost изучите фронтенд веб-приложения, а по адресу http://localhost/api/docs/ — спецификацию API.
 
-## Сайт расположен по адресу: https://foodgramdaniyar52.ddnsking.com
+## Сайт расположен по адресу: https://foodgramdgg.ddnsking.com
 # Запуск API:
 - Склонируйте репозиторий:
 ```bash 
